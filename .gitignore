@@ -13,6 +13,7 @@ models/3DR_gps_mag/3DR_gps_mag.sdf
 models/c920/c920.sdf
 models/cloudship/cloudship.sdf
 models/iris/iris.sdf
+models/iris_odom/iris_odom.sdf
 models/matrice_100/matrice_100.sdf
 models/mb1240-xl-ez4/mb1240-xl-ez4.sdf
 models/pixhawk/pixhawk.sdf
@@ -29,3 +30,4 @@ models/typhoon_h480/typhoon_h480.sdf
 models/depth_camera/depth_camera.sdf
 models/standard_vtol_drop/standard_vtol_drop.sdf
 models/tailsitter/tailsitter.sdf
+models/iris_odom/iris_odom.sdf
